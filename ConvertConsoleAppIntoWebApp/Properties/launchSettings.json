@@ -1,0 +1,19 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iis": {
+      "applicationUrl": "http://localhost/ConvertConsoleAppIntoWebApp",
+      "sslPort": 0
+    },
+    "iisExpress": {
+      "applicationUrl": "http://localhost:53578/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "ConvertConsoleAppIntoWebApp": {
+      "commandName": "IISExpress"
+    }
+  }
+}

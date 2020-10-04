@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertConsoleAppIntoWebApp", "ConvertConsoleAppIntoWebApp\ConvertConsoleAppIntoWebApp.csproj", "{A0960B3F-87A8-4336-B57B-F59D637DA579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0960B3F-87A8-4336-B57B-F59D637DA579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0960B3F-87A8-4336-B57B-F59D637DA579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0960B3F-87A8-4336-B57B-F59D637DA579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0960B3F-87A8-4336-B57B-F59D637DA579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {773828DC-2994-4052-A586-6E23D564493D}
+	EndGlobalSection
+EndGlobal
